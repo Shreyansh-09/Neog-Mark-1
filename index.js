@@ -21,7 +21,7 @@ function qna(question) {
     else {
       console.log("your answer is incorrect!!!")
     }
-    console.log("Your Score is ", score, "\n")
+    console.log("Your Score is: ", score, "\n")
     console.log("----------------")
   }
 }
